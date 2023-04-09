@@ -35,9 +35,6 @@ Save the final data set into the file.
 2)Numerical & Categorical(Bar plot,Box plot,Dist plot)
 ## PROGRAM
 ```
-Developed by : DHARSHAN V
-Registration Number : 212222230031
-```
 ```
 import pandas as pd
 df=pd.read_excel("/content/FlightInformation.xlsx")
